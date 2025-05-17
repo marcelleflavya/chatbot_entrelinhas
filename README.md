@@ -1,3 +1,9 @@
+
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1453aff8-32a7-4191-8877-8720a63792bb" width="500"/>
+</div>
+
 # Projeto Chatbot Entrelinhas
 
 <p align="center">
